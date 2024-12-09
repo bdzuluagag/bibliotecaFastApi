@@ -1,0 +1,5 @@
+sqlalchemy
+alembic
+mysql-connector-python
+fastapi
+uvicorn
